@@ -1,0 +1,26 @@
+﻿  main.cpp
+C:\Users\HOME\Desktop\6 семестр\Методы компиляции\project\project\parser.h(140,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\HOME\Desktop\6 семестр\Методы компиляции\project\project\parser.h(148,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\HOME\Desktop\6 семестр\Методы компиляции\project\project\parser.h(150,48): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\HOME\Desktop\6 семестр\Методы компиляции\project\project\parser.h(155,48): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\HOME\Desktop\6 семестр\Методы компиляции\project\project\parser.h(162,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\HOME\Desktop\6 семестр\Методы компиляции\project\project\parser.h(167,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\HOME\Desktop\6 семестр\Методы компиляции\project\project\parser.h(172,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\HOME\Desktop\6 семестр\Методы компиляции\project\project\parser.h(179,44): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+  project.vcxproj -> C:\Users\HOME\Desktop\6 семестр\Методы компиляции\project\x64\Debug\project.exe
